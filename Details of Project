@@ -1,0 +1,22 @@
+Multiple Linear Regression Analysis – 50_Startups Dataset
+
+This project performs a complete multiple linear regression analysis to predict Profit of startups based on R&D Spend, Administration, Marketing Spend, and State.
+Objectives
+•	Identify key factors influencing startup profit
+•	Build a regression model for accurate profit prediction
+•	Visualize relationships and evaluate model performance
+Tools & Libraries Used
+•	Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)
+•	Jupyter Notebook / .py Scripts
+Key Features
+•	📁 Loads and processes 50_Startups.csv
+•	📉 Builds and evaluates a Multiple Linear Regression model
+•	📊 Plots:
+o	Actual vs Predicted
+o	Residual Distribution
+o	Correlation Heatmap
+o	Regression Line: R&D Spend vs Profit
+•	📈 Evaluation metrics: R², RMSE
+
+
+
